@@ -1,0 +1,3 @@
+[submodule "movetk"]
+	path = movetk
+	url = https://github.com/heremaps/movetk.git
